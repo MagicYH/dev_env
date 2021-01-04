@@ -1,0 +1,4 @@
+
+# Use vim as defaul editor for other programe such as `git`, `crontab` ...
+export VISUAL=vim
+export EDITOR="VISUAL"

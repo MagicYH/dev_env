@@ -1,0 +1,4 @@
+source ~/.vim/conf/base.conf
+source ~/.vim/conf/plugin.conf
+source ~/.vim/conf/map.conf
+source ~/.vim/conf/command.conf
